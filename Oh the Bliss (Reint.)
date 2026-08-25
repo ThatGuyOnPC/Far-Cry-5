@@ -1,0 +1,14 @@
+X:1
+T:Oh the Bliss (Reinterpretation)
+C:Dan Romer / Faith's Region Theme
+M:4/4
+L:1/8
+Q:1/4=76
+K:D
+%%MIDI program 19
+% Chorus / Verse Main Melody
+|: "D"D2 DF A2 AF | "G"G2 GE "D"F4 | "Bm"D2 DF A2 d2 | "A"c2 B2 A4 |
+  "D"D2 DF A2 AF | "G"G2 GE "D"F2 ED | "G"B,2 D2 "A"E2 FE | "D"D6 z2 :|
+% Bridge / Refrain
+| "G"B2 BA "D"F2 ED | "G"G2 GF "D"F4 | "Bm"d2 dc "G"B2 AF | "A"E6 z2 |
+  "D"D2 DF A2 AF | "G"G2 GE "D"F2 ED | "G"B,2 D2 "A"E2 FE | "D"D6 z2 ||
